@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\WELCOM\\source\\repos\\105_LoginRegistroConfirmarRestablecer_ASPNETMVC\\WebAppCorreo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{758EE8FB-503A-4F60-AC2F-BF86ADDB679E}|WebAppCorreo\\WebAppCorreo.csproj|c:\\users\\welcom\\source\\repos\\105_loginregistroconfirmarrestablecer_aspnetmvc\\webappcorreo\\webappcorreo\\datos\\dbusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{758EE8FB-503A-4F60-AC2F-BF86ADDB679E}|WebAppCorreo\\WebAppCorreo.csproj|solutionrelative:webappcorreo\\datos\\dbusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{758EE8FB-503A-4F60-AC2F-BF86ADDB679E}|WebAppCorreo\\WebAppCorreo.csproj|c:\\users\\welcom\\source\\repos\\105_loginregistroconfirmarrestablecer_aspnetmvc\\webappcorreo\\webappcorreo\\controllers\\iniciocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{758EE8FB-503A-4F60-AC2F-BF86ADDB679E}|WebAppCorreo\\WebAppCorreo.csproj|solutionrelative:webappcorreo\\controllers\\iniciocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{758EE8FB-503A-4F60-AC2F-BF86ADDB679E}|WebAppCorreo\\WebAppCorreo.csproj|c:\\users\\welcom\\source\\repos\\105_loginregistroconfirmarrestablecer_aspnetmvc\\webappcorreo\\webappcorreo\\models\\correodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{758EE8FB-503A-4F60-AC2F-BF86ADDB679E}|WebAppCorreo\\WebAppCorreo.csproj|solutionrelative:webappcorreo\\models\\correodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{758EE8FB-503A-4F60-AC2F-BF86ADDB679E}|WebAppCorreo\\WebAppCorreo.csproj|c:\\users\\welcom\\source\\repos\\105_loginregistroconfirmarrestablecer_aspnetmvc\\webappcorreo\\webappcorreo\\models\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{758EE8FB-503A-4F60-AC2F-BF86ADDB679E}|WebAppCorreo\\WebAppCorreo.csproj|solutionrelative:webappcorreo\\models\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{758EE8FB-503A-4F60-AC2F-BF86ADDB679E}|WebAppCorreo\\WebAppCorreo.csproj|c:\\users\\welcom\\source\\repos\\105_loginregistroconfirmarrestablecer_aspnetmvc\\webappcorreo\\webappcorreo\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{758EE8FB-503A-4F60-AC2F-BF86ADDB679E}|WebAppCorreo\\WebAppCorreo.csproj|solutionrelative:webappcorreo\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CorreoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\WELCOM\\source\\repos\\105_LoginRegistroConfirmarRestablecer_ASPNETMVC\\WebAppCorreo\\WebAppCorreo\\Models\\CorreoDTO.cs",
+              "RelativeDocumentMoniker": "WebAppCorreo\\Models\\CorreoDTO.cs",
+              "ToolTip": "C:\\Users\\WELCOM\\source\\repos\\105_LoginRegistroConfirmarRestablecer_ASPNETMVC\\WebAppCorreo\\WebAppCorreo\\Models\\CorreoDTO.cs",
+              "RelativeToolTip": "WebAppCorreo\\Models\\CorreoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T00:57:16.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsuarioDTO.cs",
+              "DocumentMoniker": "C:\\Users\\WELCOM\\source\\repos\\105_LoginRegistroConfirmarRestablecer_ASPNETMVC\\WebAppCorreo\\WebAppCorreo\\Models\\UsuarioDTO.cs",
+              "RelativeDocumentMoniker": "WebAppCorreo\\Models\\UsuarioDTO.cs",
+              "ToolTip": "C:\\Users\\WELCOM\\source\\repos\\105_LoginRegistroConfirmarRestablecer_ASPNETMVC\\WebAppCorreo\\WebAppCorreo\\Models\\UsuarioDTO.cs",
+              "RelativeToolTip": "WebAppCorreo\\Models\\UsuarioDTO.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA9wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T00:57:14.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InicioController.cs",
+              "DocumentMoniker": "C:\\Users\\WELCOM\\source\\repos\\105_LoginRegistroConfirmarRestablecer_ASPNETMVC\\WebAppCorreo\\WebAppCorreo\\Controllers\\InicioController.cs",
+              "RelativeDocumentMoniker": "WebAppCorreo\\Controllers\\InicioController.cs",
+              "ToolTip": "C:\\Users\\WELCOM\\source\\repos\\105_LoginRegistroConfirmarRestablecer_ASPNETMVC\\WebAppCorreo\\WebAppCorreo\\Controllers\\InicioController.cs",
+              "RelativeToolTip": "WebAppCorreo\\Controllers\\InicioController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAEEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T00:55:44.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\WELCOM\\source\\repos\\105_LoginRegistroConfirmarRestablecer_ASPNETMVC\\WebAppCorreo\\WebAppCorreo\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "WebAppCorreo\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\WELCOM\\source\\repos\\105_LoginRegistroConfirmarRestablecer_ASPNETMVC\\WebAppCorreo\\WebAppCorreo\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "WebAppCorreo\\App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T00:55:00.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DBUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\WELCOM\\source\\repos\\105_LoginRegistroConfirmarRestablecer_ASPNETMVC\\WebAppCorreo\\WebAppCorreo\\Datos\\DBUsuario.cs",
+              "RelativeDocumentMoniker": "WebAppCorreo\\Datos\\DBUsuario.cs",
+              "ToolTip": "C:\\Users\\WELCOM\\source\\repos\\105_LoginRegistroConfirmarRestablecer_ASPNETMVC\\WebAppCorreo\\WebAppCorreo\\Datos\\DBUsuario.cs",
+              "RelativeToolTip": "WebAppCorreo\\Datos\\DBUsuario.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAowF8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T00:46:34.123Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -17,9 +17,9 @@ namespace WebAppCorreo.Servicios
         private static string _Host = "smtp.gmail.com";
         private static int _Puerto = 587;
 
-        private static string _NombreEnvia = "";
-        private static string _Correo = "";
-        private static string _Clave = "";
+        private static string _NombreEnvia = "Codigo de recuperacion";
+        private static string _Correo = "bladimiralejandro88@gmail.com";
+        private static string _Clave = "ymmnjsromhhcbwfk";
 
         public static bool Enviar(CorreoDTO correodto)
         {

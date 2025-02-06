@@ -11,7 +11,7 @@ namespace WebAppCorreo.Datos
 {
     public class DBUsuario
     {
-        private static string CadenaSQL = "Server=(local); DataBase=DBPrueba; Trusted_Connection=True; TrustServerCertificate=True;";
+        private static string CadenaSQL = "Server=BLADIMIR-DESKTO\\MSSQLSERVER01; DataBase=DBPrueba; User Id=sa;Password=123;Trusted_Connection=True; TrustServerCertificate=True;";
 
         public static bool Registrar(UsuarioDTO usuario)
         {
